@@ -1,4 +1,4 @@
-## 🙌 안녕하세요. Github 부 관리자 조남현 연구원입니다
+## 🙌 안녕하세요. NinePlus IT 조남현 선임 연구원입니다
 
 - Github 사용이 익숙치 않으신 분들을 위한 사용법 연습 repo입니다.
 - Github 계정, Github desktop이 있어야 합니다.
